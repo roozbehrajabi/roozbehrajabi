@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @roozbehrajabi
-- 👀 I’m interested in Machine Learning, Signal and Image Processing
+- 👀 I’m interested in Hyperspectral Data Processing, Machine Learning, and Digital Signal and Image Processing
 - 📫 How to reach me roozbeh.rajabi at gmail.com
 
 <!---
